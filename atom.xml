@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Martin Burian]]></title>
+  <link href="http://martinburian.github.io/atom.xml" rel="self"/>
+  <link href="http://martinburian.github.io/"/>
+  <updated>2014-04-05T17:12:35+02:00</updated>
+  <id>http://martinburian.github.io/</id>
+  <author>
+    <name><![CDATA[Martin Burian]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The long way to the f1rst p0st]]></title>
+    <link href="http://martinburian.github.io/blog/2014/04/05/the-long-way-to-the-f1rst-p0st/"/>
+    <updated>2014-04-05T17:09:44+02:00</updated>
+    <id>http://martinburian.github.io/blog/2014/04/05/the-long-way-to-the-f1rst-p0st</id>
+    <content type="html"><![CDATA[<p>It was quite a long way to set up this site!</p>
+]]></content>
+  </entry>
+  
+</feed>
